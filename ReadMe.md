@@ -32,7 +32,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi2215&show_icons=true&locale=en&layout=compact" alt="adi2215" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi2215&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5" alt="adi2215" />
 </div>
 
 <br/>
