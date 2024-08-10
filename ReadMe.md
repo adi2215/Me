@@ -27,7 +27,6 @@
     <img src="https://skillicons.dev/icons?i=cs,unity,vscode,github" />
 </div>
 
-<br/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
